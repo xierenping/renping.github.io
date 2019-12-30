@@ -8,7 +8,7 @@
       <p><b>Email:[<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]</b></p>
     </td>
     <td width="15%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/photo.jpg" width="100%">
     </td>
   </tr>
 </table>
