@@ -1,10 +1,6 @@
-<h1>Ph.D. Renping XIE</h1>
-<br>Automation College
-<br>Foshan University
-<br>Foshan, 528225, China
-<br>
-<br>Email:[<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]
-<br>
+<font size=3.5>
+<font color=black>
+<font face=“Times New Roman”>
 	
 <table border="0">
   <tr>
@@ -24,8 +20,7 @@
 </table>
 
 
-<h2>Biography [<a href="http://menghanxia.github.io/CurriculumVitae.pdf">CV</a>
-<a href="https://github.com/MenghanXia">Github</a>]</h2>
+<h2>Biography</h2>
     <p>
     My research interests lie in the areas of Robots and Artificial Intelligence. I have done some work on: (1) computer vision and image processing; (2) robots and machine vision intelligent detection; (3) service robots.I am currently a third-year Ph.D. student in <a href="http://www.cse.cuhk.edu.hk/en/">Department of Computer Science and Engineering</a>, 
 	The Chinese University of Hong Kong (CUHK), supervised by  <a href="http://www.cse.cuhk.edu.hk/~ttwong/"> Prof. Tien-Tsin WONG</a>.
