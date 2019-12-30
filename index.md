@@ -1,24 +1,24 @@
-<table border="0", frame=void>
+<table border="0">
   <tr>
-    <td width="85%">
+    <td width="75%">
       <h1>Ph.D. Renping XIE</h1>
       <p><b>Automation College</b></p>
       <p><b>Foshan University</b></p>
       <p><b>Foshan, 528225, China</b></p>
       <p><b>Email:[<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]</b></p>
     </td>
-    <td width="15%">
+    <td width="25%">
       <img src="/photo.jpg" width="100%">
     </td>
   </tr>
 </table>
 
 <h2>Biography</h2>
-    My research interests lie in the areas of Robots and Artificial Intelligence. I have done some work on:(1) computer vision and image processing;(2) robots and machine vision intelligent detection; (3) service robots. I received the Ph.D. degree in <i>Photogrammetry and Remote Sensing</i> from <a href="http://en.whu.edu.cn/">Wuhan University</a> in 2018, under the supervision of <a href="http://cvrs.whu.edu.cn/">Prof. Jian YAO</a>.<br>
+My research interests lie in the areas of Robots and Artificial Intelligence.  
+I have done some work on:(1) computer vision and image processing;(2) robots and machine vision intelligent detection; (3) service robots. I received the Ph.D. degree in <i>Photogrammetry and Remote Sensing</i> from <a href="http://en.whu.edu.cn/">Wuhan University</a> in 2018, under the supervision of <a href="http://cvrs.whu.edu.cn/">Prof. Jian YAO</a>.<br>
 
 <h2>Publications</h2>
   <h3>Conferences</h3>
-    <!--<li type="disc">2021 ddl: siggraph, cvpr, iccv</li>-->
   <ul>
     <li type="disc">	
 	<a href="http://menghanxia.github.io/papers/2017_Color_Remapping_Optimization_iccvw.pdf">
