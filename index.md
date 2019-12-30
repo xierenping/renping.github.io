@@ -8,6 +8,23 @@
 <br>
 <br>Email:[()<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]
 <br>
+	
+<table border="0">
+  <tr>
+    <td width="75%">
+	<br>Automation College
+	<br>Foshan University
+	<br>Foshan 528225,China
+	<br>
+	<br>Email:[()<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]
+	<br>
+    </td>
+    <td width="25%">
+      <img src="/photo.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 <h2>Biography [<a href="http://menghanxia.github.io/CurriculumVitae.pdf">CV</a>
 <a href="https://github.com/MenghanXia">Github</a>]</h2>
