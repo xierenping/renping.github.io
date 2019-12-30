@@ -1,4 +1,4 @@
-<h1>Ph.D. Renping Xie</h1>
+<h1>Ph.D. Renping XIE</h1>
 <br>Automation College
 <br>Foshan University
 <br>Foshan 528225,China
@@ -6,30 +6,20 @@
 <br>Email:[<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]
 <br>
 	
-<body>
-<div id="layout-content" style="margin-top:25px">
-
-<table cellpadding="11px">
-    <tbody>
-	<tr>
-		<td width="85%">
-			<div id="toptitle">
-				<h1>Ph.D. Renping XIE &nbsp;</h1>
-			</div>     
-		<p>
-		<br>Automation College
-		<br>Foshan University
-		<br>Foshan 528225,China
-		<br>
-		<br>Email:[<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]
-		<br>
-                </p>
-			</td>
-			<td width="25%">
-			<img src="./photo.jpg" border="0"><br><br>
-			</td>
-		</tr>
-	</tbody>
+<table border="0">
+  <tr>
+    <td width="85%">
+	<br>Automation College
+	<br>Foshan University
+	<br>Foshan 528225,China
+	<br>
+	<br>Email:[<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]
+	<br>
+    </td>
+    <td width="15%">
+      <img src="/photo.jpg" width="100%">
+    </td>
+  </tr>
 </table>
 
 
