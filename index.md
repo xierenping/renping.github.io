@@ -6,20 +6,20 @@
 <br>Foshan University
 <br>Foshan 528225,China
 <br>
-<br>Email:[()<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]
+<br>Email:[<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]
 <br>
 	
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="85%">
 	<br>Automation College
 	<br>Foshan University
 	<br>Foshan 528225,China
 	<br>
-	<br>Email:[()<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]
+	<br>Email:[<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]
 	<br>
     </td>
-    <td width="25%">
+    <td width="15%">
       <img src="/photo.jpg" width="100%">
     </td>
   </tr>
