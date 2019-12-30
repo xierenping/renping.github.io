@@ -14,9 +14,7 @@
 </table>
 
 <h2>Biography</h2>
-    <p>
-    My research interests lie in the areas of Robots and Artificial Intelligence. I have done some work on: (1) computer vision and image processing; (2) robots and machine vision intelligent detection; (3) service robots. I received the Ph.D. degree in <i>Photogrammetry and Remote Sensing</i> from <a href="http://en.whu.edu.cn/">Wuhan University</a> in 2018, under the supervision of <a href="http://cvrs.whu.edu.cn/">Prof. Jian YAO</a>.<br>
-	</p>
+    My research interests lie in the areas of Robots and Artificial Intelligence. I have done some work on:(1) computer vision and image processing;(2) robots and machine vision intelligent detection; (3) service robots. I received the Ph.D. degree in <i>Photogrammetry and Remote Sensing</i> from <a href="http://en.whu.edu.cn/">Wuhan University</a> in 2018, under the supervision of <a href="http://cvrs.whu.edu.cn/">Prof. Jian YAO</a>.<br>
 
 <h2>Publications</h2>
   <h3>Conferences</h3>
