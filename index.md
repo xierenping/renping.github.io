@@ -1,7 +1,4 @@
 <h1>Ph.D. Renping Xie</h1>
-<font size=3.5>
-<font color=black>
-<font face=“Times New Roman”>
 <br>Automation College
 <br>Foshan University
 <br>Foshan 528225,China
