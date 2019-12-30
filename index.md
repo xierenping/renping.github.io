@@ -1,4 +1,4 @@
-<table border="0">
+<table border="0", frame=void>
   <tr>
     <td width="85%">
       <h1>Ph.D. Renping XIE</h1>
