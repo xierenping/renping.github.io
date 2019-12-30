@@ -6,7 +6,7 @@
 <br>Foshan University
 <br>Foshan 528225,China
 <br>
-<br>Email:[renping.xie@whu.edu.cn](https://whu.edu.cn/)
+<br>Email:[()<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]
 <br>
 
 <h2>Biography [<a href="http://menghanxia.github.io/CurriculumVitae.pdf">CV</a>
