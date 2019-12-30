@@ -2,7 +2,7 @@
 <font size=3.5>
 <font color=black>
 <font face=“Times New Roman”>
-Automation College
+<br>Automation College
 <br>Foshan University
 <br>Foshan 528225,China
 <br>
