@@ -1,7 +1,3 @@
-<font size=3.5>
-<font color=black>
-<font face=“Times New Roman”>
-
 <table border="0">
   <tr>
     <td width="85%">
@@ -17,6 +13,9 @@
   </tr>
 </table>
 
+<font size=3.5>
+<font color=black>
+<font face=“Times New Roman”>
 <h2>Biography</h2>
     <p>
     My research interests lie in the areas of Robots and Artificial Intelligence. I have done some work on: (1) computer vision and image processing; (2) robots and machine vision intelligent detection; (3) service robots.I am currently a third-year Ph.D. student in <a href="http://www.cse.cuhk.edu.hk/en/">Department of Computer Science and Engineering</a>, 
