@@ -15,9 +15,6 @@
 
 <h2>Biography</h2>
     <p>
-<font size=3.5>
-<font color=black>
-<font face=“Times New Roman”>
     My research interests lie in the areas of Robots and Artificial Intelligence. I have done some work on: (1) computer vision and image processing; (2) robots and machine vision intelligent detection; (3) service robots.I am currently a third-year Ph.D. student in <a href="http://www.cse.cuhk.edu.hk/en/">Department of Computer Science and Engineering</a>, 
 	The Chinese University of Hong Kong (CUHK), supervised by  <a href="http://www.cse.cuhk.edu.hk/~ttwong/"> Prof. Tien-Tsin WONG</a>.
 	Before that, I received the B.Eng. degree in <i>Photogrammetry and Remote Sensing</i> and M.Eng. degree in <i>Pattern Recognition and Intelligent System</i> 
@@ -104,27 +101,3 @@
     <i>Sensors</i>. 17:1-27, 2017.
 	</li>
   </ul>	
-
-
-<h2>Professional Activities</h2>
-	<ul>
-		<li type="square">
-			Conference Review: CCCV2017, MMM2020, CGI2019, PG2019, SIGGRAPH2019.
-		</li>
-		<li type="square">
-			Journal Review: The Visual Computer, IEEE Access, Computation.
-		</li>
-	</ul>
-
-
-<h2>Selected Awards</h2>
-    <ul>
-    <li type="disc"> Outstanding Graduate Award (Postgraduate), Wuhan University, 2017. </li>	
-	<li type="disc"> First-class Scholarship of Wuhan University, 2016. </li>
-	<li type="disc"> Microsoft Aerial Survey Scholarship, Wuhan University, 2015. </li>
-    <li type="disc"> Postgraduate Freshman Scholarship, Wuhan University, 2014. </li>
-    <li type="disc"> Outstanding Graduate Award (Undergraduate), Wuhan University, 2014. </li>	
-    <li type="disc"> Outstanding Students Award, Wuhan University, 2012. </li>
-	<li type="disc"> Outstanding Students Award, Wuhan University, 2011. </li>
-	<br>
-    </ul>
