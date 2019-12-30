@@ -1,13 +1,13 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="80%">
       <h1>Ph.D. Renping XIE</h1>
       <p><b>Automation College</b></p>
       <p><b>Foshan University</b></p>
       <p><b>Foshan, 528225, China</b></p>
       <p><b>Email:[<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]</b></p>
     </td>
-    <td width="25%">
+    <td width="20%">
       <img src="/photo.jpg" width="100%">
     </td>
   </tr>
