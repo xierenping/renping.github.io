@@ -2,6 +2,21 @@
 <font color=black>
 <font face=“Times New Roman”>
 
+<table border="0">
+  <tr>
+    <td width="85%">
+      <h1>Ph.D. Renping XIE</h1>
+      <p><b>Automation College</b></p>
+      <p><b>Foshan University</b></p>
+      <p><b>Foshan, 528225, China</b></p>
+      <p><b>Email:[<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]</b></p>
+    </td>
+    <td width="15%">
+      <img src="/zhengjianzhao.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+
 <h2>Biography</h2>
     <p>
     My research interests lie in the areas of Robots and Artificial Intelligence. I have done some work on: (1) computer vision and image processing; (2) robots and machine vision intelligent detection; (3) service robots.I am currently a third-year Ph.D. student in <a href="http://www.cse.cuhk.edu.hk/en/">Department of Computer Science and Engineering</a>, 
