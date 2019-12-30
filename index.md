@@ -1,4 +1,3 @@
-![mahua](mahua-logo.jpg)
 #Ph.D. Renping Xie
 <font size=3.5>
 <font color=black>
