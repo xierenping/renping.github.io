@@ -50,7 +50,7 @@ and image processing;(2) robots and machine vision intelligent detection; (3) se
   <ul>
 	<!--<li type="disc">2021 ddl: ijcv, tip</li>-->
 	<li type="disc">	
-	<a href="http://menghanxia.github.io/papers/2019_Mosaicking_Plane_Selection_ijrs.pdf">
+	<a href="http://xierenping.github.io/papers/2019_robust projection plane selection strategy.pdf">
 	"A Robust Projection Plane Selection Strategy for UAV Image Stitching"</a><br>
 	<strong>Renping Xie</strong>, Jingmin Tu, Jian Yao, Menghan Xia, Shiwei Li.<br>
 	<i>International Journal of Remote Sensing</i> (<strong>IJRS</strong>). 40(8):3118-3138, 2019.
