@@ -56,13 +56,13 @@ and image processing;(2) robots and machine vision intelligent detection; (3) se
 	<i>International Journal of Remote Sensing</i> (<strong>IJRS</strong>). 40(8):3118-3138, 2019.
     </li>
   	<li type="disc">
-    <a href="http://menghanxia.github.io/papers/2018_Guided_Color_Correction_isprs.pdf">
+    <a href="http://xierenping.github.io/papers/2018_Guided color consistency optimization.pdf">
 	"Guided Color Consistency Optimization for Image Mosaicking"</a><br>
 	<strong>Renping Xie</strong>, Menghan Xia, Jian Yao, Li Li.<br>
 	<i>ISPRS Journal of Photogrammetry and Remote Sensing</i> (<strong>ISPRS</strong>). 135:43-59, 2018.
 	</li>
     <li type="disc">
-    <a href="http://menghanxia.github.io/papers/2019_Mosaicking_Plane_Selection_ijrs.pdf">
+    <a href="http://xierenping.github.io/papers/2018_image stitching for concrete bridge inspection.pdf">
 	" Automatic multi-image stitching for concrete bridge inspection by combining point and line features "</a><br>
 	<strong>Renping Xie</strong>, Jian Yao*, Kang Liu, Xiaohu Lu, Yahui Liu, Menghan Xia, Qifei Zeng.<br>
 	<i> Automation in Construction </i>. 90:265-280, 2018.
