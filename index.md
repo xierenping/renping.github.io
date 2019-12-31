@@ -14,8 +14,8 @@
 </table>
 
 <h2>Biography</h2>
-My research interests lie in the areas of Robots and Artificial Intelligence. I have done some work on:(1) computer vision 
-and image processing;(2) robots and machine vision intelligent detection; (3) service robots. I received the Ph.D. degree in <i>Photogrammetry and Remote Sensing</i> from <a href="http://en.whu.edu.cn/">Wuhan University</a> in 2018, under the supervision of <a href="http://cvrs.whu.edu.cn/">Prof. Jian YAO</a>.<br>
+My research interests lie in the areas of Robots and Artificial Intelligence. I have done some work on: (1) computer vision 
+and image processing; (2) robots and machine vision intelligent detection; (3) service robots. I received the Ph.D. degree in <i>Photogrammetry and Remote Sensing</i> from <a href="http://en.whu.edu.cn/">Wuhan University</a> in 2018, under the supervision of <a href="http://cvrs.whu.edu.cn/">Prof. Jian YAO</a>.<br>
 
 <h2>Publications</h2>
   <h3>Conferences</h3>
@@ -63,7 +63,7 @@ and image processing;(2) robots and machine vision intelligent detection; (3) se
 	</li>
     <li type="disc">
     <a href="http://xierenping.github.io/papers/2018_image stitching for concrete bridge inspection.pdf">
-	" Automatic multi-image stitching for concrete bridge inspection by combining point and line features "</a><br>
+	"Automatic multi-image stitching for concrete bridge inspection by combining point and line features "</a><br>
 	<strong>Renping Xie</strong>, Jian Yao*, Kang Liu, Xiaohu Lu, Yahui Liu, Menghan Xia, Qifei Zeng.<br>
 	<i> Automation in Construction </i>. 90:265-280, 2018.
 	</li>
@@ -75,7 +75,7 @@ and image processing;(2) robots and machine vision intelligent detection; (3) se
 	</li>
      <li type="disc">
     <a href="http://menghanxia.github.io/papers/2017_Dynamic_Seamline_mva.pdf">
-	Edge-Enhanced Optimal Seamline Detection for Orthoimage Mosaicking"</a><br>
+	"Edge-Enhanced Optimal Seamline Detection for Orthoimage Mosaicking"</a><br>
 	Li Li, Jian Yao, <strong>Renping Xie</strong>, and Jie Li.<br>
 	<i> IEEE Geoscience and Remote Sensing Letters</i> (<strong>GRSL</strong>). 15(5): 764-768, 2018.
 	</li>
