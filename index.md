@@ -2,9 +2,9 @@
   <tr>
     <td width="80%">
       <h1>Ph.D. Renping XIE</h1>
-      <p><b>Automation College</b></p>
-      <p><b>Foshan University</b></p>
-      <p><b>Foshan, 528225, China</b></p>
+      <p><b>School of computer Science and Technology</b></p>
+      <p><b>Dongguan University of Technology</b></p>
+      <p><b>Dongguan, 523808, China</b></p>
       <p><b>Email:[<a href="https://whu.edu.cn/">renping.xie@whu.edu.cn</a>]</b></p>
     </td>
     <td width="20%">
